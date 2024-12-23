@@ -71,6 +71,13 @@ body {
   margin-bottom: 30px;
 }
 
+.my-portfolio-link-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 60px;
+}
+
 .my-portfolio-link {
   text-decoration-line: none;
 }
